@@ -22,7 +22,7 @@ BiomeRarity: 98
 
 BiomeColor: #A4D7D0
 
-ReplaceToBiomeName: Taiga
+ReplaceToBiomeName: minecraft:taiga
 
 ####################
 # Isle biomes only #
@@ -185,6 +185,8 @@ CustomStructure(TotemBase,0.1,Bricktowerbranching,0.1,GravelOreT1,1.0)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

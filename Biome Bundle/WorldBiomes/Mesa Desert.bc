@@ -22,7 +22,7 @@ BiomeRarity: 94
 
 BiomeColor: #A12C06
 
-ReplaceToBiomeName: Mesa
+ReplaceToBiomeName: minecraft:mesa
 
 ####################
 # Isle biomes only #
@@ -190,6 +190,8 @@ Ore(STAINED_CLAY,5,25,100.0,71,76,SAND)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

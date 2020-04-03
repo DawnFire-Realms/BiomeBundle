@@ -22,7 +22,7 @@ BiomeRarity: 100
 
 BiomeColor: #84A60E
 
-ReplaceToBiomeName: Jungle
+ReplaceToBiomeName: minecraft:jungle
 
 ####################
 # Isle biomes only #
@@ -188,6 +188,8 @@ SmallLake(LAVA,6,33.0,1,8)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

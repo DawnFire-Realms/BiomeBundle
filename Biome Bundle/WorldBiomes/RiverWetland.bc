@@ -22,7 +22,7 @@ BiomeRarity: 92
 
 BiomeColor: #0C9BBE
 
-ReplaceToBiomeName: Forest
+ReplaceToBiomeName: minecraft:forest
 
 ####################
 # Isle biomes only #
@@ -204,6 +204,8 @@ Reed(SUGAR_CANE_BLOCK,10,100.0,63,139,GRASS,DIRT,SAND)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

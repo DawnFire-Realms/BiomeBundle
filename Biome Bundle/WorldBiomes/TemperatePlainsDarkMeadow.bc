@@ -22,7 +22,7 @@ BiomeRarity: 70
 
 BiomeColor: #5D9728
 
-ReplaceToBiomeName: Plains
+ReplaceToBiomeName: minecraft:plains
 
 ####################
 # Isle biomes only #
@@ -211,6 +211,8 @@ Liquid(LAVA,10,100.0,19,139,STONE:0)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

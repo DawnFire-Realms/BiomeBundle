@@ -22,7 +22,7 @@ BiomeRarity: 98
 
 BiomeColor: #43616C
 
-ReplaceToBiomeName: Forest
+ReplaceToBiomeName: minecraft:forest
 
 ####################
 # Isle biomes only #
@@ -187,6 +187,8 @@ CustomObject(MesaRock1,MesaRock2,MesaRock3,MesaRock4,MesaRock5)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

@@ -22,7 +22,7 @@ BiomeRarity: 100
 
 BiomeColor: #3D9A2E
 
-ReplaceToBiomeName: Forest
+ReplaceToBiomeName: minecraft:forest
 
 ####################
 # Isle biomes only #
@@ -209,6 +209,8 @@ CustomObject(SpruceFirSmall6,SpruceFirSmall7,SpruceFirSmall8,SpruceFirSmall12,Sp
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

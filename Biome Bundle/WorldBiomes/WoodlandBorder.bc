@@ -22,7 +22,7 @@ BiomeRarity: 98
 
 BiomeColor: #3F3119
 
-ReplaceToBiomeName: Forest
+ReplaceToBiomeName: minecraft:forest
 
 ####################
 # Isle biomes only #
@@ -204,6 +204,8 @@ Boulder(STONE,2,15.0,0,255,GRASS,DIRT,STONE:0)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

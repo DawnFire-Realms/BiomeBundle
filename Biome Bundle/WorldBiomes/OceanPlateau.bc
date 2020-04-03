@@ -22,7 +22,7 @@ BiomeRarity: 50
 
 BiomeColor: #E9E1A1
 
-ReplaceToBiomeName: Forest
+ReplaceToBiomeName: minecraft:forest
 
 ####################
 # Isle biomes only #
@@ -200,6 +200,8 @@ CustomObject(UndergroundDungeon1,UndergroundDungeon2,UndergroundDungeon3,Undergr
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

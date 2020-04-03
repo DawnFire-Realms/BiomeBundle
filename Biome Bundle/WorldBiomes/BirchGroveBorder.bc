@@ -22,7 +22,7 @@ BiomeRarity: 100
 
 BiomeColor: #035A17
 
-ReplaceToBiomeName: Plains
+ReplaceToBiomeName: minecraft:plains
 
 ####################
 # Isle biomes only #
@@ -208,6 +208,8 @@ Grass(LONG_GRASS:1,NotGrouped,100,100.0,GRASS,DIRT)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

@@ -22,6 +22,8 @@ BiomeRarity: 100
 
 BiomeColor: #A7CCCC
 
+ReplaceToBiomeName: minecraft:ice_flats
+
 ####################
 # Isle biomes only #
 ####################
@@ -191,6 +193,8 @@ Tree(1,GroundBush,10,Tree,2)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

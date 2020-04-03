@@ -22,7 +22,7 @@ BiomeRarity: 96
 
 BiomeColor: #E19A45
 
-ReplaceToBiomeName: Desert
+ReplaceToBiomeName: minecraft:desert
 
 ####################
 # Isle biomes only #
@@ -191,6 +191,8 @@ CustomObject(baobab1,baobab2,baobab3)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

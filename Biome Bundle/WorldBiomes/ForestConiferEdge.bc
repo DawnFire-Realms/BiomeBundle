@@ -5,7 +5,7 @@
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeExtends:
+BiomeExtends: 
 
 ResourceInheritance: true
 
@@ -28,7 +28,7 @@ ReplaceToBiomeName: ForestConifer
 # Isle biomes only #
 ####################
 
-IsleInBiome:
+IsleInBiome: 
 
 BiomeSizeWhenIsle: 10
 
@@ -111,7 +111,7 @@ SurfaceBlock: GRASS
 
 GroundBlock: DIRT
 
-SurfaceAndGroundControl:
+SurfaceAndGroundControl: 
 
 ReplacedBlocks: (AIR,LAVA,1,10)
 
@@ -202,6 +202,8 @@ Grass(Tallgrass,NotGrouped,10,100.0,GRASS,DIRT)
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
+InheritSaplingResource: false
+
 
 #######################################################################
 # +-----------------------------------------------------------------+ #
@@ -209,7 +211,7 @@ Grass(Tallgrass,NotGrouped,10,100.0,GRASS,DIRT)
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeObjects:
+BiomeObjects: 
 
 
 #######################################################################
@@ -249,6 +251,7 @@ SpawnWaterCreatures: [{"mob": "squid", "weight": 10, "min": 4, "max": 4}]
 
 SpawnAmbientCreatures: [{"mob": "bat", "weight": 10, "min": 8, "max": 8}]
 
-BiomeDictId:
+BiomeDictId: 
 
 InheritMobsBiomeName: Forest
+

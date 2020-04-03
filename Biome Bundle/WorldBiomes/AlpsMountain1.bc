@@ -22,7 +22,7 @@ BiomeRarity: 98
 
 BiomeColor: #95B090
 
-ReplaceToBiomeName: Cold Taiga
+ReplaceToBiomeName: minecraft:taiga_cold
 
 ####################
 # Isle biomes only #
@@ -201,6 +201,8 @@ CustomStructure(GravelOreT1,1.0,JaggedCliffs1,5.0)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

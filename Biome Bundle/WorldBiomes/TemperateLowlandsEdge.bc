@@ -22,7 +22,7 @@ BiomeRarity: 100
 
 BiomeColor: #9EE392
 
-ReplaceToBiomeName: Plains
+ReplaceToBiomeName: minecraft:plains
 
 ####################
 # Isle biomes only #
@@ -192,6 +192,8 @@ CustomObject(OakWoodland1,OakWoodland2,OakWoodland3,OakWoodland4,OakWoodland5,Oa
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

@@ -22,6 +22,8 @@ BiomeRarity: 95
 
 BiomeColor: #158436
 
+ReplaceToBiomeName: minecraft:birch_forest_hills
+
 ####################
 # Isle biomes only #
 ####################
@@ -202,6 +204,8 @@ CustomStructure(TotemBase,0.1,Bricktowerbranching,0.1,GravelOreT1,1.0,CaveMine1,
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

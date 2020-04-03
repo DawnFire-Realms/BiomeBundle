@@ -22,6 +22,8 @@ BiomeRarity: 70
 
 BiomeColor: #50C6A3
 
+ReplaceToBiomeName: minecraft:mutated_swampland
+
 ####################
 # Isle biomes only #
 ####################
@@ -203,6 +205,8 @@ Reed(SUGAR_CANE_BLOCK,10,100.0,63,139,GRASS,DIRT,SAND)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

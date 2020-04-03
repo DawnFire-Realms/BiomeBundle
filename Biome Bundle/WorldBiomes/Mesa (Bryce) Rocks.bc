@@ -22,7 +22,7 @@ BiomeRarity: 97
 
 BiomeColor: #764738
 
-ReplaceToBiomeName: Mesa (Bryce)
+ReplaceToBiomeName: minecraft:mutated_mesa
 
 ####################
 # Isle biomes only #
@@ -209,6 +209,8 @@ Tree(5,HugeTaiga2,4,HugeTaiga1,15,Taiga1,16,Taiga2,50)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

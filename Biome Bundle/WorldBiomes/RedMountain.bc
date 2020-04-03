@@ -22,7 +22,7 @@ BiomeRarity: 99
 
 BiomeColor: #F6886C
 
-ReplaceToBiomeName: Desert
+ReplaceToBiomeName: minecraft:desert
 
 ####################
 # Isle biomes only #
@@ -192,6 +192,8 @@ UnderWaterOre(GRAVEL,8,1,100.0,DIRT,STONE:0)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

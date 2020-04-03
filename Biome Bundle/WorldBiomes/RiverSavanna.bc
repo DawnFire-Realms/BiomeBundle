@@ -22,7 +22,7 @@ BiomeRarity: 80
 
 BiomeColor: #70C4D9
 
-ReplaceToBiomeName: Savanna
+ReplaceToBiomeName: minecraft:savanna
 
 ####################
 # Isle biomes only #
@@ -191,6 +191,8 @@ Reed(SUGAR_CANE_BLOCK,3,100.0,0,139,GRASS,DIRT,SAND)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

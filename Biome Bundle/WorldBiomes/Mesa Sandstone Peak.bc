@@ -22,7 +22,7 @@ BiomeRarity: 99
 
 BiomeColor: #DEA151
 
-ReplaceToBiomeName: Desert
+ReplaceToBiomeName: minecraft:desert
 
 ####################
 # Isle biomes only #
@@ -194,6 +194,8 @@ Liquid(LAVA,10,100.0,19,139,STONE:0)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

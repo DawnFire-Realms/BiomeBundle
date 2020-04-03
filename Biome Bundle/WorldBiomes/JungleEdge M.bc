@@ -22,6 +22,8 @@ BiomeRarity: 10
 
 BiomeColor: #29B010
 
+ReplaceToBiomeName: minecraft:mutated_jungle_edge
+
 ####################
 # Isle biomes only #
 ####################
@@ -200,6 +202,8 @@ Plant(PUMPKIN,1,3.0,0,139,GRASS)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

@@ -22,7 +22,7 @@ BiomeRarity: 70
 
 BiomeColor: #05CE93
 
-ReplaceToBiomeName: Swampland
+ReplaceToBiomeName: minecraft:swampland
 
 ####################
 # Isle biomes only #
@@ -219,6 +219,8 @@ Tree(1,SwampTree,50)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

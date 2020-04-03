@@ -22,7 +22,7 @@ BiomeRarity: 100
 
 BiomeColor: #42CCEF
 
-ReplaceToBiomeName: River
+ReplaceToBiomeName: minecraft:river
 
 ####################
 # Isle biomes only #
@@ -198,6 +198,8 @@ Reed(SUGAR_CANE_BLOCK,3,100.0,0,139,GRASS,DIRT,SAND)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

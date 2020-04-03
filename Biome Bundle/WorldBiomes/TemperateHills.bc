@@ -22,7 +22,7 @@ BiomeRarity: 70
 
 BiomeColor: #8BF777
 
-ReplaceToBiomeName: Plains
+ReplaceToBiomeName: minecraft:plains
 
 ####################
 # Isle biomes only #
@@ -196,6 +196,8 @@ Boulder(STONE,1,10.0,71,111,GRASS)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

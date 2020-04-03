@@ -5,7 +5,7 @@
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeExtends:
+BiomeExtends: 
 
 ResourceInheritance: true
 
@@ -22,13 +22,13 @@ BiomeRarity: 70
 
 BiomeColor: #7FAA20
 
-ReplaceToBiomeName: Jungle
+ReplaceToBiomeName: minecraft:jungle
 
 ####################
 # Isle biomes only #
 ####################
 
-IsleInBiome:
+IsleInBiome: 
 
 BiomeSizeWhenIsle: 6
 
@@ -38,9 +38,9 @@ BiomeRarityWhenIsle: 70
 # Border biomes only #
 ######################
 
-BiomeIsBorder:
+BiomeIsBorder: 
 
-NotBorderNear:
+NotBorderNear: 
 
 BiomeSizeWhenBorder: 6
 
@@ -111,7 +111,7 @@ SurfaceBlock: GRAVEL
 
 GroundBlock: DIRT
 
-SurfaceAndGroundControl: STAINED_CLAY:14, DIRT, -4.0, GRASS, STONE, 0.0, STAINED_CLAY:14, DIRT, 0.5, HARD_CLAY, DIRT, 1.0, STAINED_CLAY:14, DIRT, 1.5, GRASS, DIRT, 10.0
+SurfaceAndGroundControl: STAINED_CLAY:14, DIRT, -4.0, GRASS, STONE, 0.0, STAINED_CLAY:14, DIRT, 0.5, HARD_CLAY, DIRT, 1.0, STAINED_CLAY:14, DIRT, 1.5, GRASS, DIRT, 10.0 
 
 ReplacedBlocks: (GRASS,SAND:1,62,63),(STONE,HARD_CLAY,62,255),(AIR,LAVA,1,10)
 
@@ -209,6 +209,8 @@ Plant(MELON_BLOCK,1,100.0,0,139,GRASS,DIRT,DIRT:2)
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
+InheritSaplingResource: false
+
 
 #######################################################################
 # +-----------------------------------------------------------------+ #
@@ -216,7 +218,7 @@ Plant(MELON_BLOCK,1,100.0,0,139,GRASS,DIRT,DIRT:2)
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeObjects:
+BiomeObjects: 
 
 
 #######################################################################
@@ -256,6 +258,7 @@ SpawnWaterCreatures: [{"mob": "squid", "weight": 10, "min": 4, "max": 4}]
 
 SpawnAmbientCreatures: [{"mob": "bat", "weight": 10, "min": 8, "max": 8}]
 
-BiomeDictId:
+BiomeDictId: 
 
 InheritMobsBiomeName: Jungle
+

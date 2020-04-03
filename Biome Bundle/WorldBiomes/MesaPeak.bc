@@ -22,7 +22,7 @@ BiomeRarity: 80
 
 BiomeColor: #FF8049
 
-ReplaceToBiomeName: Mesa
+ReplaceToBiomeName: minecraft:mesa
 
 ####################
 # Isle biomes only #
@@ -195,6 +195,8 @@ CustomObject(SprucePinyon1,SprucePinyon2,SprucePinyon3,SprucePinyon4,SprucePinyo
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

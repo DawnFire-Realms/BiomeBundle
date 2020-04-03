@@ -22,7 +22,7 @@ BiomeRarity: 97
 
 BiomeColor: #B1AB45
 
-ReplaceToBiomeName: Desert
+ReplaceToBiomeName: minecraft:desert
 
 ####################
 # Isle biomes only #
@@ -187,6 +187,8 @@ SmallLake(LAVA,6,33.0,1,8)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

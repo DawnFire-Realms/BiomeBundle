@@ -22,6 +22,8 @@ BiomeRarity: 99
 
 BiomeColor: #C33609
 
+ReplaceToBiomeName: minecraft:mutated_mesa
+
 ####################
 # Isle biomes only #
 ####################
@@ -193,6 +195,8 @@ Tree(5,HugeTaiga2,4,HugeTaiga1,15,Taiga1,16,Taiga2,50)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

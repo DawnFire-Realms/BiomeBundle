@@ -22,7 +22,7 @@ BiomeRarity: 60
 
 BiomeColor: #897327
 
-ReplaceToBiomeName: Desert
+ReplaceToBiomeName: minecraft:desert
 
 ####################
 # Isle biomes only #
@@ -209,6 +209,8 @@ Tree(1,Acacia,10)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

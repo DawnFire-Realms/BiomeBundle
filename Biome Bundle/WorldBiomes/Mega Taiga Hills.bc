@@ -22,6 +22,8 @@ BiomeRarity: 50
 
 BiomeColor: #454F3E
 
+ReplaceToBiomeName: minecraft:redwood_taiga_hills
+
 ####################
 # Isle biomes only #
 ####################
@@ -199,6 +201,8 @@ Plant(SNOW,80,45.0,41,139,GRASS,DIRT)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

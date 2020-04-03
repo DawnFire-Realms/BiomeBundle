@@ -22,7 +22,7 @@ BiomeRarity: 95
 
 BiomeColor: #037D1E
 
-ReplaceToBiomeName: Plains
+ReplaceToBiomeName: minecraft:plains
 
 ####################
 # Isle biomes only #
@@ -198,6 +198,8 @@ Plant(PUMPKIN,1,3.0,0,255,GRASS)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

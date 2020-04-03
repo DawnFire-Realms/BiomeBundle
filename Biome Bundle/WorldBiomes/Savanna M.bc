@@ -5,7 +5,7 @@
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeExtends:
+BiomeExtends: 
 
 ResourceInheritance: true
 
@@ -22,6 +22,8 @@ BiomeRarity: 97
 
 BiomeColor: #5B8015
 
+ReplaceToBiomeName: minecraft:mutated_savanna
+
 ####################
 # Isle biomes only #
 ####################
@@ -36,9 +38,9 @@ BiomeRarityWhenIsle: 97
 # Border biomes only #
 ######################
 
-BiomeIsBorder:
+BiomeIsBorder: 
 
-NotBorderNear:
+NotBorderNear: 
 
 BiomeSizeWhenBorder: 9
 
@@ -109,7 +111,7 @@ SurfaceBlock: GRASS
 
 GroundBlock: STONE
 
-SurfaceAndGroundControl: GRASS, DIRT, -0.5, DIRT:1, DIRT, 1.75, STONE, STONE, 10.0
+SurfaceAndGroundControl: GRASS, DIRT, -0.5, DIRT:1, DIRT, 1.75, STONE, STONE, 10.0 
 
 ReplacedBlocks: (AIR,LAVA,1,10)
 
@@ -192,6 +194,8 @@ Plant(Dandelion,4,100.0,0,139,GRASS,DIRT)
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
+InheritSaplingResource: false
+
 
 #######################################################################
 # +-----------------------------------------------------------------+ #
@@ -199,7 +203,7 @@ Plant(Dandelion,4,100.0,0,139,GRASS,DIRT)
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeObjects:
+BiomeObjects: 
 
 
 #######################################################################
@@ -242,3 +246,4 @@ SpawnAmbientCreatures: [{"mob": "bat", "weight": 10, "min": 8, "max": 8}]
 BiomeDictId: HOT, SAVANNA, PLAINS, SPARSE
 
 InheritMobsBiomeName: Savanna M
+

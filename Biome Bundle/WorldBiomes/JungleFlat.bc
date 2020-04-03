@@ -22,7 +22,7 @@ BiomeRarity: 70
 
 BiomeColor: #46BB31
 
-ReplaceToBiomeName: Jungle
+ReplaceToBiomeName: minecraft:jungle
 
 ####################
 # Isle biomes only #
@@ -212,6 +212,8 @@ Reed(SUGAR_CANE_BLOCK,10,100.0,63,139,GRASS,DIRT,SAND)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

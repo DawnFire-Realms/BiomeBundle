@@ -5,7 +5,7 @@
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeExtends:
+BiomeExtends: 
 
 ResourceInheritance: true
 
@@ -22,13 +22,13 @@ BiomeRarity: 100
 
 BiomeColor: #C9CEC9
 
-ReplaceToBiomeName: Extreme Hills
+ReplaceToBiomeName: minecraft:extreme_hills
 
 ####################
 # Isle biomes only #
 ####################
 
-IsleInBiome:
+IsleInBiome: 
 
 BiomeSizeWhenIsle: 9
 
@@ -38,9 +38,9 @@ BiomeRarityWhenIsle: 100
 # Border biomes only #
 ######################
 
-BiomeIsBorder:
+BiomeIsBorder: 
 
-NotBorderNear: Snowy Cliffs, SnowyExtremeHills, SnowyMesa, Cold Plains, Arctic, SnowyPlains, IcyMountains, Ice Plains, ColdForestFirThicket, Cold Taiga, Frozen Forest, Glacier
+NotBorderNear: SnowyMesa, Cold Plains, Arctic, SnowyPlains, IcyMountains, Ice Plains, ColdForestFirThicket, Cold Taiga, Frozen Forest, Glacier
 
 BiomeSizeWhenBorder: 10
 
@@ -111,7 +111,7 @@ SurfaceBlock: GRASS
 
 GroundBlock: DIRT
 
-SurfaceAndGroundControl:
+SurfaceAndGroundControl: 
 
 ReplacedBlocks: (AIR,LAVA,1,10)
 
@@ -202,6 +202,8 @@ Plant(SNOW,60,100.0,63,139,GRASS,DIRT,STONE:0,PACKED_ICE,ICE,LEAVES)
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
+InheritSaplingResource: false
+
 
 #######################################################################
 # +-----------------------------------------------------------------+ #
@@ -209,7 +211,7 @@ Plant(SNOW,60,100.0,63,139,GRASS,DIRT,STONE:0,PACKED_ICE,ICE,LEAVES)
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeObjects:
+BiomeObjects: 
 
 
 #######################################################################
@@ -249,6 +251,7 @@ SpawnWaterCreatures: [{"mob": "squid", "weight": 10, "min": 4, "max": 4}]
 
 SpawnAmbientCreatures: [{"mob": "bat", "weight": 10, "min": 8, "max": 8}]
 
-BiomeDictId:
+BiomeDictId: 
 
 InheritMobsBiomeName: Extreme Hills
+

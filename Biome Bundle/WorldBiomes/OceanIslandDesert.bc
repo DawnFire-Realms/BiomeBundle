@@ -22,7 +22,7 @@ BiomeRarity: 50
 
 BiomeColor: #E5DEA4
 
-ReplaceToBiomeName: Desert
+ReplaceToBiomeName: minecraft:desert
 
 ####################
 # Isle biomes only #
@@ -193,6 +193,8 @@ Ore(SANDSTONE,5,25,100.0,71,76,SAND)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

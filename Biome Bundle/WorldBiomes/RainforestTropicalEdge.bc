@@ -22,7 +22,7 @@ BiomeRarity: 100
 
 BiomeColor: #68881F
 
-ReplaceToBiomeName: Forest
+ReplaceToBiomeName: minecraft:forest
 
 ####################
 # Isle biomes only #
@@ -200,6 +200,8 @@ Plant(MELON_BLOCK,1,100.0,0,139,GRASS,DIRT,DIRT:2)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

@@ -22,7 +22,7 @@ BiomeRarity: 100
 
 BiomeColor: #DDF8D9
 
-ReplaceToBiomeName: Extreme Hills
+ReplaceToBiomeName: minecraft:extreme_hills
 
 ####################
 # Isle biomes only #
@@ -209,6 +209,8 @@ Plant(LargeFern,4,20.0,41,139,GRASS,DIRT,DIRT:2)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

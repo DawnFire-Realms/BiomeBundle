@@ -22,6 +22,8 @@ BiomeRarity: 95
 
 BiomeColor: #0A5B4F
 
+ReplaceToBiomeName: minecraft:mutated_taiga
+
 ####################
 # Isle biomes only #
 ####################
@@ -204,6 +206,8 @@ Plant(LargeFern,15,100.0,41,139,GRASS,DIRT)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

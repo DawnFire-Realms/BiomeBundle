@@ -22,7 +22,7 @@ BiomeRarity: 70
 
 BiomeColor: #5C6A20
 
-ReplaceToBiomeName: Jungle
+ReplaceToBiomeName: minecraft:jungle
 
 ####################
 # Isle biomes only #
@@ -216,6 +216,8 @@ Cactus(CACTUS,10,100.0,0,139,SAND)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

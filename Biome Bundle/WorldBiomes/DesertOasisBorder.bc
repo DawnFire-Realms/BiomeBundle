@@ -22,7 +22,7 @@ BiomeRarity: 100
 
 BiomeColor: #7CAF54
 
-ReplaceToBiomeName: Jungle
+ReplaceToBiomeName: minecraft:jungle
 
 ####################
 # Isle biomes only #
@@ -212,6 +212,8 @@ Well(SANDSTONE,STEP:1,WATER,1,0.1,13,139,SAND)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

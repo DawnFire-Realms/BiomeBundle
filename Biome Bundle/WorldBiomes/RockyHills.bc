@@ -22,7 +22,7 @@ BiomeRarity: 70
 
 BiomeColor: #BB9191
 
-ReplaceToBiomeName: Plains
+ReplaceToBiomeName: minecraft:plains
 
 ####################
 # Isle biomes only #
@@ -208,6 +208,8 @@ CustomObject(ShrubBirch1,ShrubBirch2,ShrubBirch3,ShrubBirch4,ShrubBirch5,ShrubBi
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

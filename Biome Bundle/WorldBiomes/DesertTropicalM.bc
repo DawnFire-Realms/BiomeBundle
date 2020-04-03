@@ -22,7 +22,7 @@ BiomeRarity: 98
 
 BiomeColor: #718324
 
-ReplaceToBiomeName: Jungle
+ReplaceToBiomeName: minecraft:jungle
 
 ####################
 # Isle biomes only #
@@ -193,6 +193,8 @@ Grass(Tallgrass,NotGrouped,10,100.0,GRASS,DIRT)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

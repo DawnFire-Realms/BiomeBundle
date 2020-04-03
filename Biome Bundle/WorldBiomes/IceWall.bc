@@ -22,7 +22,7 @@ BiomeRarity: 70
 
 BiomeColor: #FFFFFF
 
-ReplaceToBiomeName: Ice Plains
+ReplaceToBiomeName: minecraft:ice_flats
 
 ####################
 # Isle biomes only #
@@ -186,6 +186,8 @@ SmallLake(LAVA,6,33.0,1,8)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

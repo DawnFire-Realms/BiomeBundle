@@ -22,7 +22,7 @@ BiomeRarity: 95
 
 BiomeColor: #106EB6
 
-ReplaceToBiomeName: River
+ReplaceToBiomeName: minecraft:river
 
 ####################
 # Isle biomes only #
@@ -191,6 +191,8 @@ UnderWaterOre(GRAVEL,6,1,100.0,DIRT,GRASS)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

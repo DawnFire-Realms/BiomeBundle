@@ -22,7 +22,7 @@ BiomeRarity: 98
 
 BiomeColor: #86AF3A
 
-ReplaceToBiomeName: Forest
+ReplaceToBiomeName: minecraft:forest
 
 ####################
 # Isle biomes only #
@@ -199,6 +199,8 @@ Ore(GRAVEL,5,30,100.0,75,139,GRASS)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

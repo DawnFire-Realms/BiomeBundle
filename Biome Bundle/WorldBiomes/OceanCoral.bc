@@ -22,7 +22,7 @@ BiomeRarity: 0
 
 BiomeColor: #00A48E
 
-ReplaceToBiomeName: Deep Ocean
+ReplaceToBiomeName: minecraft:deep_ocean
 
 ####################
 # Isle biomes only #
@@ -192,6 +192,8 @@ CustomStructure(GravelOreOceanT1,1.0,SeaBranching,0.2,SeaTemple2,0.1)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

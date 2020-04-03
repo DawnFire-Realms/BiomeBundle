@@ -22,7 +22,7 @@ BiomeRarity: 60
 
 BiomeColor: #75673A
 
-ReplaceToBiomeName: Forest
+ReplaceToBiomeName: minecraft:forest
 
 ####################
 # Isle biomes only #
@@ -206,6 +206,8 @@ Liquid(WATER,20,100.0,19,139,STONE:0)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

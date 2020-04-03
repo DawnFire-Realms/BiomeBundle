@@ -22,7 +22,7 @@ BiomeRarity: 50
 
 BiomeColor: #726236
 
-ReplaceToBiomeName: Forest
+ReplaceToBiomeName: minecraft:forest
 
 ####################
 # Isle biomes only #
@@ -214,6 +214,8 @@ Plant(LargeFern,4,20.0,41,139,GRASS,DIRT)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

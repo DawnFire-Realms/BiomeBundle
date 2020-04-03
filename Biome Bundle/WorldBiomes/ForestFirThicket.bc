@@ -22,7 +22,7 @@ BiomeRarity: 50
 
 BiomeColor: #429C3E
 
-ReplaceToBiomeName: Forest
+ReplaceToBiomeName: minecraft:forest
 
 ####################
 # Isle biomes only #
@@ -208,6 +208,8 @@ CustomObject(plainsclutter1,plainsclutter2,plainsclutter3,plainsclutter4,plainsc
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

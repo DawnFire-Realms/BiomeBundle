@@ -22,7 +22,7 @@ BiomeRarity: 92
 
 BiomeColor: #BE7E28
 
-ReplaceToBiomeName: Mesa
+ReplaceToBiomeName: minecraft:mesa
 
 ####################
 # Isle biomes only #
@@ -200,6 +200,8 @@ Liquid(LAVA,10,100.0,19,139,STONE:0)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

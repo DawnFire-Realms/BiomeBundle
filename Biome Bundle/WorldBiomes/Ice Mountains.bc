@@ -22,6 +22,8 @@ BiomeRarity: 97
 
 BiomeColor: #C1DEE4
 
+ReplaceToBiomeName: minecraft:ice_mountains
+
 ####################
 # Isle biomes only #
 ####################
@@ -195,6 +197,8 @@ CustomObject(HangingIcicleSmall1,HangingIcicleSmall2,HangingIcicleSmall3,Hanging
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

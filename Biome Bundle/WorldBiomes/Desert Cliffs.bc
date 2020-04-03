@@ -22,7 +22,7 @@ BiomeRarity: 70
 
 BiomeColor: #997101
 
-ReplaceToBiomeName: Savanna
+ReplaceToBiomeName: minecraft:savanna
 
 ####################
 # Isle biomes only #
@@ -219,6 +219,8 @@ CustomObject(SandSmallLake1,SandSmallLake2,SandSmallLake3,SandSmallLake4,SandSma
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

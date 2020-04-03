@@ -22,7 +22,7 @@ BiomeRarity: 99
 
 BiomeColor: #EBC38F
 
-ReplaceToBiomeName: Ice Plains Spikes
+ReplaceToBiomeName: minecraft:mutated_ice_flats
 
 ####################
 # Isle biomes only #
@@ -203,6 +203,8 @@ CustomStructure()
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

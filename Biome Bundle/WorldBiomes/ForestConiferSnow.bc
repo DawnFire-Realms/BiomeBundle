@@ -5,7 +5,7 @@
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeExtends:
+BiomeExtends: 
 
 ResourceInheritance: true
 
@@ -38,9 +38,9 @@ BiomeRarityWhenIsle: 98
 # Border biomes only #
 ######################
 
-BiomeIsBorder:
+BiomeIsBorder: 
 
-NotBorderNear:
+NotBorderNear: 
 
 BiomeSizeWhenBorder: 9
 
@@ -111,7 +111,7 @@ SurfaceBlock: GRASS
 
 GroundBlock: DIRT
 
-SurfaceAndGroundControl:
+SurfaceAndGroundControl: 
 
 ReplacedBlocks: (AIR,LAVA,1,10)
 
@@ -200,6 +200,8 @@ Plant(LargeFern,15,100.0,41,139,GRASS,DIRT)
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
+InheritSaplingResource: false
+
 
 #######################################################################
 # +-----------------------------------------------------------------+ #
@@ -207,7 +209,7 @@ Plant(LargeFern,15,100.0,41,139,GRASS,DIRT)
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeObjects:
+BiomeObjects: 
 
 
 #######################################################################
@@ -247,6 +249,7 @@ SpawnWaterCreatures: [{"mob": "squid", "weight": 10, "min": 4, "max": 4}]
 
 SpawnAmbientCreatures: [{"mob": "bat", "weight": 10, "min": 8, "max": 8}]
 
-BiomeDictId:
+BiomeDictId: 
 
 InheritMobsBiomeName: Forest
+

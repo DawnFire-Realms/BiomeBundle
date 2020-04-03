@@ -22,7 +22,7 @@ BiomeRarity: 80
 
 BiomeColor: #DDDBCC
 
-ReplaceToBiomeName: Birch Forest
+ReplaceToBiomeName: minecraft:birch_forest
 
 ####################
 # Isle biomes only #
@@ -195,6 +195,8 @@ Tree(25,GroundBush,25)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

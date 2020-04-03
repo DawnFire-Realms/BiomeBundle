@@ -22,7 +22,7 @@ BiomeRarity: 99
 
 BiomeColor: #A7E891
 
-ReplaceToBiomeName: Jungle
+ReplaceToBiomeName: minecraft:jungle
 
 ####################
 # Isle biomes only #
@@ -191,6 +191,8 @@ Plant(PUMPKIN,1,3.0,0,139,GRASS)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

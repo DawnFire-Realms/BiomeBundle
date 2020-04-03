@@ -5,7 +5,7 @@
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeExtends:
+BiomeExtends: 
 
 ResourceInheritance: true
 
@@ -22,11 +22,13 @@ BiomeRarity: 70
 
 BiomeColor: #8ABD7C
 
+ReplaceToBiomeName: minecraft:jungle_hills
+
 ####################
 # Isle biomes only #
 ####################
 
-IsleInBiome:
+IsleInBiome: 
 
 BiomeSizeWhenIsle: 5
 
@@ -36,9 +38,9 @@ BiomeRarityWhenIsle: 97
 # Border biomes only #
 ######################
 
-BiomeIsBorder:
+BiomeIsBorder: 
 
-NotBorderNear:
+NotBorderNear: 
 
 BiomeSizeWhenBorder: 5
 
@@ -109,7 +111,7 @@ SurfaceBlock: GRASS
 
 GroundBlock: DIRT
 
-SurfaceAndGroundControl:
+SurfaceAndGroundControl: 
 
 ReplacedBlocks: (AIR,LAVA,1,10)
 
@@ -201,6 +203,8 @@ Reed(SUGAR_CANE_BLOCK,10,100.0,63,139,GRASS,DIRT,SAND)
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
+InheritSaplingResource: false
+
 
 #######################################################################
 # +-----------------------------------------------------------------+ #
@@ -208,7 +212,7 @@ Reed(SUGAR_CANE_BLOCK,10,100.0,63,139,GRASS,DIRT,SAND)
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeObjects:
+BiomeObjects: 
 
 
 #######################################################################
@@ -251,3 +255,4 @@ SpawnAmbientCreatures: [{"mob": "bat", "weight": 10, "min": 8, "max": 8}]
 BiomeDictId: HOT, WET, DENSE, JUNGLE, HILLS
 
 InheritMobsBiomeName: JungleHills
+

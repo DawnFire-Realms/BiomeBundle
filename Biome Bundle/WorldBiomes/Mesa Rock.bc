@@ -22,7 +22,7 @@ BiomeRarity: 97
 
 BiomeColor: #876648
 
-ReplaceToBiomeName: Mesa
+ReplaceToBiomeName: minecraft:mesa
 
 ####################
 # Isle biomes only #
@@ -216,6 +216,8 @@ Tree(1,Acacia,10)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

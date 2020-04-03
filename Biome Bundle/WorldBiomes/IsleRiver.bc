@@ -22,7 +22,7 @@ BiomeRarity: 98
 
 BiomeColor: #0000FF
 
-ReplaceToBiomeName: River
+ReplaceToBiomeName: minecraft:river
 
 ####################
 # Isle biomes only #
@@ -190,6 +190,8 @@ CustomStructure(RiverRocks,0.5)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

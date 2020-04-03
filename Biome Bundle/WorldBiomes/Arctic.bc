@@ -22,7 +22,7 @@ BiomeRarity: 96
 
 BiomeColor: #E6EFD2
 
-ReplaceToBiomeName: Ice Plains Spikes
+ReplaceToBiomeName: minecraft:mutated_ice_flats
 
 ####################
 # Isle biomes only #
@@ -197,6 +197,8 @@ Plant(SNOW,80,45.0,41,139,GRASS,DIRT,SNOW_BLOCK,ICE,PACKED_ICE,LEAVES)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

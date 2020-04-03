@@ -22,7 +22,7 @@ BiomeRarity: 95
 
 BiomeColor: #23F0D5
 
-ReplaceToBiomeName: River
+ReplaceToBiomeName: minecraft:river
 
 ####################
 # Isle biomes only #
@@ -200,6 +200,8 @@ Plant(LargeFern,10,100.0,41,139,GRASS,DIRT)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

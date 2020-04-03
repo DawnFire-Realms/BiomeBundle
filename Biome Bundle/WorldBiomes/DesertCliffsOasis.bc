@@ -22,7 +22,7 @@ BiomeRarity: 93
 
 BiomeColor: #A2C81C
 
-ReplaceToBiomeName: Jungle
+ReplaceToBiomeName: minecraft:jungle
 
 ####################
 # Isle biomes only #
@@ -198,6 +198,8 @@ Plant(MELON_BLOCK,2,100.0,0,139,GRASS,DIRT,DIRT:2)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

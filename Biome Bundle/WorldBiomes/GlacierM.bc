@@ -22,7 +22,7 @@ BiomeRarity: 98
 
 BiomeColor: #276A7D
 
-ReplaceToBiomeName: Ice Plains
+ReplaceToBiomeName: minecraft:ice_flats
 
 ####################
 # Isle biomes only #
@@ -189,6 +189,8 @@ Plant(SNOW,80,45.0,41,139,SNOW_BLOCK,ICE,PACKED_ICE)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

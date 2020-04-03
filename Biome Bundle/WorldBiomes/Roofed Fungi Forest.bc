@@ -22,7 +22,7 @@ BiomeRarity: 98
 
 BiomeColor: #7BAD21
 
-ReplaceToBiomeName: Roofed Forest
+ReplaceToBiomeName: minecraft:roofed_forest
 
 ####################
 # Isle biomes only #
@@ -201,6 +201,8 @@ Ore(GRAVEL,5,30,100.0,75,139,GRASS)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

@@ -22,7 +22,7 @@ BiomeRarity: 99
 
 BiomeColor: #CDC2BC
 
-ReplaceToBiomeName: Extreme Hills
+ReplaceToBiomeName: minecraft:extreme_hills
 
 ####################
 # Isle biomes only #
@@ -202,6 +202,8 @@ Plant(OxeyeDaisy,20,50.0,41,139,GRASS,DIRT)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

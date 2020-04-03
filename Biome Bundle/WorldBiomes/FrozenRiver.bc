@@ -22,6 +22,8 @@ BiomeRarity: 80
 
 BiomeColor: #4C98A4
 
+ReplaceToBiomeName: minecraft:frozen_river
+
 ####################
 # Isle biomes only #
 ####################
@@ -185,6 +187,8 @@ CustomObject(SnowFlake1,SnowFlake2,SnowFlake3,SnowFlake4,SnowFlake5,SnowFlake6,S
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

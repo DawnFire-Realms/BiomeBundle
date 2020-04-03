@@ -5,7 +5,7 @@
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeExtends:
+BiomeExtends: 
 
 ResourceInheritance: true
 
@@ -22,6 +22,8 @@ BiomeRarity: 95
 
 BiomeColor: #3C992B
 
+ReplaceToBiomeName: minecraft:mutated_extreme_hills
+
 ####################
 # Isle biomes only #
 ####################
@@ -36,9 +38,9 @@ BiomeRarityWhenIsle: 95
 # Border biomes only #
 ######################
 
-BiomeIsBorder:
+BiomeIsBorder: 
 
-NotBorderNear:
+NotBorderNear: 
 
 BiomeSizeWhenBorder: 8
 
@@ -109,7 +111,7 @@ SurfaceBlock: GRASS
 
 GroundBlock: DIRT
 
-SurfaceAndGroundControl: GRASS, DIRT, 1.0, STONE, STONE, 10.0
+SurfaceAndGroundControl: GRASS, DIRT, 1.0, STONE, STONE, 10.0 
 
 ReplacedBlocks: (AIR,LAVA,1,10)
 
@@ -199,6 +201,8 @@ CustomStructure(Bricktowerbranching,0.1,GravelOreT1,1.0,CaveMine1,0.09,RedbrickH
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
+InheritSaplingResource: false
+
 
 #######################################################################
 # +-----------------------------------------------------------------+ #
@@ -206,7 +210,7 @@ CustomStructure(Bricktowerbranching,0.1,GravelOreT1,1.0,CaveMine1,0.09,RedbrickH
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeObjects:
+BiomeObjects: 
 
 
 #######################################################################
@@ -249,3 +253,4 @@ SpawnAmbientCreatures: [{"mob": "bat", "weight": 10, "min": 8, "max": 8}]
 BiomeDictId: MOUNTAIN, HILLS
 
 InheritMobsBiomeName: Extreme Hills M
+

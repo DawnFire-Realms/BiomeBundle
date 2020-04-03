@@ -22,7 +22,7 @@ BiomeRarity: 100
 
 BiomeColor: #845925
 
-ReplaceToBiomeName: Desert
+ReplaceToBiomeName: minecraft:desert
 
 ####################
 # Isle biomes only #
@@ -200,6 +200,8 @@ CustomObject(MesaRock1,MesaRock2,MesaRock3,MesaRock4,MesaRock5)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

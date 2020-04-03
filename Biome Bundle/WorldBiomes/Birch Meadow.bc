@@ -22,7 +22,7 @@ BiomeRarity: 70
 
 BiomeColor: #98AD4E
 
-ReplaceToBiomeName: Birch Forest
+ReplaceToBiomeName: minecraft:birch_forest
 
 ####################
 # Isle biomes only #
@@ -204,6 +204,8 @@ Grass(DoubleTallgrass,NotGrouped,4,100.0,GRASS,DIRT)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

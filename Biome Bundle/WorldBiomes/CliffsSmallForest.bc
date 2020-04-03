@@ -22,7 +22,7 @@ BiomeRarity: 98
 
 BiomeColor: #535D28
 
-ReplaceToBiomeName: Jungle
+ReplaceToBiomeName: minecraft:jungle
 
 ####################
 # Isle biomes only #
@@ -218,6 +218,8 @@ AboveWaterRes(WATER_LILY,1,100.0)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

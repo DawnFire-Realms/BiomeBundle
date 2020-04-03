@@ -22,7 +22,7 @@ BiomeRarity: 40
 
 BiomeColor: #2E9A60
 
-ReplaceToBiomeName: Taiga
+ReplaceToBiomeName: minecraft:taiga
 
 ####################
 # Isle biomes only #
@@ -206,6 +206,8 @@ Liquid(LAVA,10,100.0,19,65,STONE:0,DIRT,HARD_CLAY,STAINED_CLAY)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

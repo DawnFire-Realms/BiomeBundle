@@ -22,6 +22,8 @@ BiomeRarity: 100
 
 BiomeColor: #B6D0FF
 
+ReplaceToBiomeName: minecraft:void
+
 ####################
 # Isle biomes only #
 ####################
@@ -182,6 +184,8 @@ CustomObject(UseWorld)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

@@ -22,6 +22,8 @@ BiomeRarity: 100
 
 BiomeColor: #FAF0C0
 
+ReplaceToBiomeName: minecraft:cold_beach
+
 ####################
 # Isle biomes only #
 ####################
@@ -192,6 +194,8 @@ CustomObject(UndergroundDungeon1,UndergroundDungeon2,UndergroundDungeon3,Undergr
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

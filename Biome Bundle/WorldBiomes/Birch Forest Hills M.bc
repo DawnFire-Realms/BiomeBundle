@@ -22,6 +22,8 @@ BiomeRarity: 90
 
 BiomeColor: #1FBB4D
 
+ReplaceToBiomeName: minecraft:mutated_birch_forest_hills
+
 ####################
 # Isle biomes only #
 ####################
@@ -204,6 +206,8 @@ Reed(SUGAR_CANE_BLOCK,3,100.0,0,139,GRASS,DIRT,SAND)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

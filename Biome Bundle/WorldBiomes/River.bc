@@ -22,6 +22,8 @@ BiomeRarity: 98
 
 BiomeColor: #6494DD
 
+ReplaceToBiomeName: minecraft:river
+
 ####################
 # Isle biomes only #
 ####################
@@ -193,6 +195,8 @@ Grass(Tallgrass,NotGrouped,10,100.0,GRASS,DIRT)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

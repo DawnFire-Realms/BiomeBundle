@@ -22,7 +22,7 @@ BiomeRarity: 99
 
 BiomeColor: #984914
 
-ReplaceToBiomeName: Desert
+ReplaceToBiomeName: minecraft:desert
 
 ####################
 # Isle biomes only #
@@ -198,6 +198,8 @@ Well(SANDSTONE,STEP:1,WATER,1,0.1,13,139,SAND)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

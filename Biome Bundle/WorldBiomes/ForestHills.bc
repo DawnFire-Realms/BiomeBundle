@@ -22,6 +22,8 @@ BiomeRarity: 75
 
 BiomeColor: #2B881C
 
+ReplaceToBiomeName: minecraft:forest_hills
+
 ####################
 # Isle biomes only #
 ####################
@@ -205,6 +207,8 @@ CustomStructure(TotemBase,0.1,Bricktowerbranching,0.1,GravelOreT1,1.0,CaveMine1,
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

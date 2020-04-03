@@ -22,7 +22,7 @@ BiomeRarity: 99
 
 BiomeColor: #BE5736
 
-ReplaceToBiomeName: Mesa (Bryce)
+ReplaceToBiomeName: minecraft:mutated_mesa
 
 ####################
 # Isle biomes only #
@@ -207,6 +207,8 @@ CustomObject(MesaRock1,MesaRock2,MesaRock3,MesaRock4,MesaRock5)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

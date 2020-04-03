@@ -22,7 +22,7 @@ BiomeRarity: 99
 
 BiomeColor: #525A31
 
-ReplaceToBiomeName: Jungle
+ReplaceToBiomeName: minecraft:jungle
 
 ####################
 # Isle biomes only #
@@ -193,6 +193,8 @@ CustomObject(MesaRock1,MesaRock2,MesaRock3,MesaRock4,MesaRock5)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

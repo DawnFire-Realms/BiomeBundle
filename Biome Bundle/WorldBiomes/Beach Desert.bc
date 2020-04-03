@@ -22,7 +22,7 @@ BiomeRarity: 100
 
 BiomeColor: #CCAB08
 
-ReplaceToBiomeName: Beach
+ReplaceToBiomeName: minecraft:beaches
 
 ####################
 # Isle biomes only #
@@ -186,6 +186,8 @@ CustomStructure(Beachbranching,0.4,DngStart,0.03)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

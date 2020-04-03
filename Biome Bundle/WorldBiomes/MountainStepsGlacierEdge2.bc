@@ -22,7 +22,7 @@ BiomeRarity: 100
 
 BiomeColor: #258853
 
-ReplaceToBiomeName: Taiga
+ReplaceToBiomeName: minecraft:taiga
 
 ####################
 # Isle biomes only #
@@ -209,6 +209,8 @@ Plant(SNOW,80,45.0,41,139,GRASS,DIRT)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

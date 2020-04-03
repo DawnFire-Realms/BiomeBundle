@@ -22,6 +22,8 @@ BiomeRarity: 70
 
 BiomeColor: #D76E28
 
+ReplaceToBiomeName: minecraft:desert_hills
+
 ####################
 # Isle biomes only #
 ####################
@@ -194,6 +196,8 @@ Well(SANDSTONE,STEP:1,WATER,1,0.1,13,139,SAND)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

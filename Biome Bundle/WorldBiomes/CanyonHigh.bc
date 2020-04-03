@@ -22,7 +22,7 @@ BiomeRarity: 99
 
 BiomeColor: #C47454
 
-ReplaceToBiomeName: Forest
+ReplaceToBiomeName: minecraft:forest
 
 ####################
 # Isle biomes only #
@@ -204,6 +204,8 @@ CustomStructure(Bricktowerbranching,0.1,GravelOreT1,1.0,CaveMine1,0.09,RedbrickH
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

@@ -22,7 +22,7 @@ BiomeRarity: 98
 
 BiomeColor: #537B09
 
-ReplaceToBiomeName: Desert
+ReplaceToBiomeName: minecraft:desert
 
 ####################
 # Isle biomes only #
@@ -203,6 +203,8 @@ Boulder(OBSIDIAN,2,10.0,71,111,OBSIDIAN)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

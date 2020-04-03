@@ -22,7 +22,7 @@ BiomeRarity: 70
 
 BiomeColor: #83C25B
 
-ReplaceToBiomeName: Savanna
+ReplaceToBiomeName: minecraft:savanna
 
 ####################
 # Isle biomes only #
@@ -219,6 +219,8 @@ Tree(10,larchmed1,1,GroundBush,2,larchmed2,1,larchmed3,1)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

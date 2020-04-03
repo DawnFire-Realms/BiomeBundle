@@ -22,7 +22,7 @@ BiomeRarity: 5
 
 BiomeColor: #F45550
 
-ReplaceToBiomeName: MushroomIsland
+ReplaceToBiomeName: minecraft:mushroom_island
 
 ####################
 # Isle biomes only #
@@ -208,6 +208,8 @@ Liquid(LAVA,10,100.0,19,139,STONE:0)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

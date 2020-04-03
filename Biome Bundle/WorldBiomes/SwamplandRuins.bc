@@ -22,7 +22,7 @@ BiomeRarity: 90
 
 BiomeColor: #4B6F64
 
-ReplaceToBiomeName: Swampland
+ReplaceToBiomeName: minecraft:swampland
 
 ####################
 # Isle biomes only #
@@ -204,6 +204,8 @@ CustomObject(WaterBlock)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################

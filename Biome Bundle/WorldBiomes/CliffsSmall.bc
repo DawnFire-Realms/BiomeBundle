@@ -22,7 +22,7 @@ BiomeRarity: 70
 
 BiomeColor: #C2FFAE
 
-ReplaceToBiomeName: Savanna
+ReplaceToBiomeName: minecraft:savanna
 
 ####################
 # Isle biomes only #
@@ -196,6 +196,8 @@ Plant(PUMPKIN,1,3.0,0,139,GRASS)
 # |                         Sapling resource                        | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
+
+InheritSaplingResource: false
 
 
 #######################################################################
